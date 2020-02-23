@@ -47,6 +47,6 @@ constants|modes|screens|widgets
 ~`main.dart` theme is configured. Root of the app is defined in this file.
 
 
-_P S I have develope this app in order to submit the interview assignment for Nitor Infotech_
+_P S I have developed this app in order to submit the interview assignment for Nitor Infotech_
 
 
