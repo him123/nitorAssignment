@@ -1,9 +1,11 @@
 # Pseudo Flutter application which would let users help search and analyze GitHub users conveniently.
 
 ### Deployment instructions
-Step 1: Clone the repo OR in android studio File -> New -> Project from version control -> Git
-Setp 2: Enter repo URL
-Step 3: 
+~Step 1: Clone the repo OR in android studio File -> New -> Project from version control -> Git
+
+~Setp 2: Enter repo URL
+
+~Step 3: 
 
 ## Screen shots
 
