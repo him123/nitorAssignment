@@ -11,8 +11,8 @@
 
 ## Screen shots
 
-![LCO Mascot](https://github.com/him123/nitorAssignment/blob/master/nitor_assignment/newss/12.PNG)
-![LCO Mascot](https://github.com/him123/nitorAssignment/blob/master/nitor_assignment/newss/23.PNG)
+![LCO Mascot](https://github.com/him123/nitorAssignment/blob/master/nitor_assignment/ss/12.PNG)
+![LCO Mascot](https://github.com/him123/nitorAssignment/blob/master/nitor_assignment/ss/23_.PNG)
 
 
 ## How it works
