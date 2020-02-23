@@ -33,10 +33,10 @@
 
 ~App is mainly divided by 4 packages 
 
-constants|modes|screens|widgets
+constants|model|screens|widgets
 |---|---|---|---|
 
-~constancs contains desings and url infromation which are shaing by whole app.
+~constants contains desings and url infromation which are shaing by whole app.
 
 ~models contains user.dart and user_details.dart. This are two model classes to catch the api response.
 
