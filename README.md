@@ -46,6 +46,16 @@ constants|modes|screens|widgets
 
 ~`main.dart` theme is configured. Root of the app is defined in this file.
 
+## Dependencies used
+
+Below dependencies are used in the pubspec.yaml
+
+`http:`
+`shimmer:`
+`modal_progress_hud: ^0.1.3`
+`intl: ^0.16.1`
+`share: ^0.6.3+6`
+`url_launcher: ^5.4.2`
 
 _P S I have developed this app in order to submit the interview assignment for Nitor Infotech_
 
